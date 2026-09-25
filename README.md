@@ -8,8 +8,9 @@ Owner: Joshua Ricker · Contact: usefulfindscompany@gmail.com · Handle: @useful
 ```
 .
 ├── index.html                                 Home: hero, disclosure, guide links, socials
-├── gifts-for-home-cooks-under-50.html         Gift guide (6 products, plain links for now)
-├── kitchen-stocking-stuffers-under-25.html    Gift guide (6 products, plain links for now)
+├── kitchen-stocking-stuffers-under-25.html    Gift guide (10 Amazon Associates products)
+├── gifts-for-home-cooks-under-50.html         Gift guide (10 Amazon Associates products)
+├── kitchen-gifts-that-feel-expensive.html     Gift guide, $50-150 (4 Amazon Associates products)
 ├── about.html                                 How products are picked
 ├── disclosure.html                            Full affiliate disclosure + privacy note
 ├── 404.html                                   GitHub Pages "not found" page
@@ -28,19 +29,20 @@ Preview by serving the repository root with a static file server and opening the
 
 ## Product cards
 
-Each guide page lists six real products inside `<ul class="product-grid">`. For now they use **plain links** to the brand's official product page (`data-status="plain-link"`), so affiliate programs have a real site to review. A card looks like this:
+Each guide page lists real products inside `<ul class="product-grid">`, hero (PUSH) picks first. All cards are Amazon Associates links (tag `usefulfind06e-20`, `data-status="affiliate"`). The product list comes from `sales/offers-final.csv` and `offers.csv` in the workspace. A card looks like this:
 
 ```html
 <li>
-  <article class="product-card" data-status="plain-link" data-program="caraway" data-product="KW-KITI" data-brand="Caraway" data-guide="gifts-for-home-cooks-under-50" data-slot="1">
+  <article class="product-card" data-status="affiliate" data-program="amazon-associates" data-product="B00151WA06" data-brand="Microplane" data-guide="kitchen-stocking-stuffers-under-25" data-slot="1" data-verdict="push">
     <div class="product-media">
-      <img src="assets/icons/timer.svg" alt="Illustrated icon of a kitchen timer (not a product photo)" width="600" height="600" loading="lazy" decoding="async">
+      <img src="assets/icons/zester.svg" alt="Illustrated icon of a zester and grater (not a product photo)" width="600" height="600" loading="lazy" decoding="async">
     </div>
     <div class="product-body">
-      <p class="product-label">Timer</p>
-      <h3>Caraway Mechanical Kitchen Timer</h3>
-      <p class="product-desc">One or two sentences on what it's designed to do, based on manufacturer info.</p>
-      <a class="btn" href="https://www.carawayhome.com/products/mechanical-kitchen-timer" rel="noopener">Check price<span class="sr-only"> for Caraway Mechanical Kitchen Timer on the Caraway website</span></a>
+      <p class="product-label">Zester</p>
+      <h3>Microplane Premium Classic Zester/Grater</h3>
+      <p class="product-desc">One or two sentences on what it's designed to do, based on manufacturer info and cited public guides.</p>
+      <a class="btn" href="https://www.amazon.com/dp/B00151WA06?tag=usefulfind06e-20" rel="sponsored nofollow noopener">View on Amazon<span class="sr-only"> for Microplane Premium Classic Zester/Grater on Amazon</span></a>
+      <p class="paid-link">Paid link</p>
     </div>
   </article>
 </li>
@@ -48,7 +50,7 @@ Each guide page lists six real products inside `<ul class="product-grid">`. For 
 
 ### Swapping in an affiliate link (after a program approves you)
 
-1. Replace `href` with the affiliate link from the program's dashboard (Amazon SiteStripe, Impact, Caraway's program, etc.).
+1. Replace `href` with the affiliate link from the program's dashboard (Amazon SiteStripe, Impact, a brand's own program, etc.).
 2. Change `data-status="plain-link"` to `data-status="affiliate"`.
 3. Change `rel="noopener"` to `rel="sponsored nofollow noopener"`.
 4. Add `<p class="paid-link">Paid link</p>` right after the button.
@@ -58,8 +60,8 @@ Each guide page lists six real products inside `<ul class="product-grid">`. For 
 
 1. Copy a whole `<li>...</li>` block and change every field. That includes the name in the `<h3>` **and** in the hidden `sr-only` text inside the button.
 2. **Description:** write one or two sentences on what the product is *designed to do*, based only on the manufacturer's page. No "I use this", no ratings or reviews, no health or "non-toxic" claims, no hype words.
-3. **Image:** don't hotlink or copy product photos. Use one of the illustrated icons in `assets/icons/` (timer, thermometer, salad-spinner, skillet, utensil-set, strainer, spatula, zester, peeler, paring-knife, pan-scraper, cutting-board), or add a new 600×600 SVG in the same style. If you later want real product images, use only ones you're allowed to use (e.g. Amazon SiteStripe or Product Advertising API images for Amazon links).
-4. **Price:** check that the current price is under the guide's budget. Record the price, the date, and the source URL in the `notes` column of `../offers.csv`. Don't show prices on the site.
+3. **Image:** don't hotlink or copy product photos. Use one of the illustrated icons in `assets/icons/` (e.g. thermometer, thermometer-budget, skillet, dutch-oven, zester, peeler, paring-knife, pan-scraper, kitchen-shears, kitchen-scale, oven-mitt, spatula-set, utensil-set, meat-shredder, measuring-cups-glass, measuring-set, mixing-bowls, salad-spinner, veggie-chopper, slow-cooker, baking-sheets, air-fryer, hand-mixer, blender), or add a new 600×600 SVG in the same style. If you later want real product images, use only ones you're allowed to use (e.g. Amazon SiteStripe or Product Advertising API images for Amazon links).
+4. **Price:** check that the current price is under the guide's budget. Record the price, the date, and the source URL in the `notes` column of `../offers.csv`. Don't show prices on the site (Amazon items: never; budget bands like "under $25" in titles are fine). Don't repeat Amazon badge claims.
 5. Update the "Last updated" date near the top of the guide.
 
 The grid shows 1 column on phones, 2 on tablets, and 3 on desktop.

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of an enameled cast iron Dutch oven">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 290 H460 V410 Q460 460 400 460 H200 Q140 460 140 410 Z" fill="#C4663F"/>
+    <path d="M130 290 Q300 200 470 290 Z" fill="#9A4A2A"/>
+    <rect x="270" y="200" width="60" height="34" rx="14" fill="#2E2A26"/>
+    <path d="M140 330 H104 V370 H140" stroke-width="16"/>
+    <path d="M460 330 H496 V370 H460" stroke-width="16"/>
+    <path d="M170 320 H430" stroke="#F5EFE6" stroke-width="8"/>
+  </g>
+</svg>

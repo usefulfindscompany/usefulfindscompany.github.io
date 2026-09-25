@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of glass measuring cups">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M130 250 H290 L280 450 Q210 470 140 450 Z" fill="#FFFDF9"/>
+    <path d="M290 280 Q340 290 320 360 L285 380" />
+    <path d="M125 250 L105 230" />
+    <g stroke="#C4663F" stroke-width="8"><line x1="160" y1="300" x2="200" y2="300"/><line x1="160" y1="340" x2="190" y2="340"/><line x1="160" y1="380" x2="200" y2="380"/><line x1="160" y1="420" x2="190" y2="420"/></g>
+    <path d="M340 330 H450 L443 450 Q395 465 347 450 Z" fill="#FFFDF9"/>
+    <path d="M450 350 Q485 360 472 410 L447 420"/>
+    <g stroke="#C4663F" stroke-width="8"><line x1="365" y1="370" x2="395" y2="370"/><line x1="365" y1="405" x2="390" y2="405"/></g>
+  </g>
+</svg>
