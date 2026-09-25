@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of a paring knife">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+
+    <g transform="rotate(-40 300 300)">
+      <path d="M284 110 Q326 150 330 300 H270 V120 Z" fill="#FFFDF9"/>
+      <line x1="270" y1="300" x2="330" y2="300" stroke-width="10"/>
+      <rect x="266" y="306" width="68" height="190" rx="26" fill="#2E2A26"/>
+      <g fill="#F5EFE6" stroke="none"><circle cx="300" cy="360" r="8"/><circle cx="300" cy="440" r="8"/></g>
+    </g>
+    <circle cx="170" cy="430" r="44" fill="#C4663F" stroke="#2E2A26"/><path d="M170 386 v-24" stroke="#7F8F6E"/>
+  </g>
+</svg>

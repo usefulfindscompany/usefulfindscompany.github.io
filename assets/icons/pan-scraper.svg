@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of a pan scraper">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M190 200 H410 L440 400 H160 Z" fill="#9A4A2A" stroke="#2E2A26"/>
+    <path d="M160 400 l20 30 l20 -30 l20 30 l20 -30 l20 30 l20 -30 l20 30 l20 -30 l20 30 l20 -30 l20 30 l20 -30 l20 30 l20 -30" fill="none" stroke="#2E2A26" stroke-width="10"/>
+    <rect x="220" y="230" width="160" height="60" rx="28" fill="#7F8F6E"/>
+  </g>
+</svg>

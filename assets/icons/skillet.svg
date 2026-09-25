@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of a cast iron skillet">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+
+    <circle cx="260" cy="320" r="140" fill="#2E2A26"/>
+    <circle cx="260" cy="320" r="108" stroke="#5E574F" stroke-width="8" fill="#3A3530"/>
+    <path d="M385 260 L500 200" stroke="#2E2A26" stroke-width="34"/>
+    <circle cx="492" cy="204" r="8" fill="#F5EFE6" stroke="none"/>
+    <path d="M150 260 Q140 238 160 226" stroke="#2E2A26" stroke-width="16"/>
+    <ellipse cx="240" cy="300" rx="44" ry="30" fill="#FFFDF9" stroke="none"/>
+    <circle cx="246" cy="302" r="16" fill="#C4663F" stroke="none"/>
+  </g>
+</svg>
