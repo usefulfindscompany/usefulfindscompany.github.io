@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of a pair of kitchen shears">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="rotate(-20 300 300)">
+      <path d="M292 300 L250 110 Q262 100 276 108 L312 300 Z" fill="#FFFDF9"/>
+      <path d="M308 300 L350 110 Q338 100 324 108 L288 300 Z" fill="#FFFDF9"/>
+      <path d="M296 300 Q250 330 236 400 Q226 470 180 470 Q138 462 150 418 Q166 372 230 360 Q270 350 290 318" fill="#C4663F"/>
+      <path d="M304 300 Q350 330 364 400 Q374 470 420 470 Q462 462 450 418 Q434 372 370 360 Q330 350 310 318" fill="#C4663F"/>
+      <ellipse cx="190" cy="425" rx="22" ry="18" fill="#F5EFE6"/>
+      <ellipse cx="410" cy="425" rx="22" ry="18" fill="#F5EFE6"/>
+      <circle cx="300" cy="300" r="12" fill="#2E2A26"/>
+    </g>
+  </g>
+</svg>

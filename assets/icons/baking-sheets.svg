@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of a stack of baking sheets with cookies">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 400 L200 460 H480 L400 400 Z" fill="#5E574F"/>
+    <path d="M120 350 L200 410 H480 L400 350 Z" fill="#2E2A26"/>
+    <path d="M120 300 L200 360 H480 L400 300 Z" fill="#FFFDF9"/>
+    <g stroke="none" fill="#C4663F"><ellipse cx="220" cy="320" rx="26" ry="12"/><ellipse cx="300" cy="320" rx="26" ry="12"/><ellipse cx="380" cy="320" rx="26" ry="12"/><ellipse cx="260" cy="342" rx="26" ry="12"/><ellipse cx="340" cy="342" rx="26" ry="12"/><ellipse cx="420" cy="342" rx="26" ry="12"/></g>
+  </g>
+</svg>

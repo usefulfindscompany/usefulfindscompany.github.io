@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of stainless steel measuring cups and spoons">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="220" cy="260" rx="90" ry="34" fill="#FFFDF9"/>
+    <path d="M130 260 Q140 360 220 360 Q300 360 310 260" fill="#FFFDF9"/>
+    <path d="M300 280 L470 190" stroke-width="22"/>
+    <ellipse cx="230" cy="420" rx="60" ry="24" fill="#FFFDF9"/>
+    <path d="M170 420 Q176 480 230 480 Q284 480 290 420" fill="#FFFDF9"/>
+    <path d="M288 430 L450 380" stroke-width="16"/>
+    <ellipse cx="400" cy="300" rx="36" ry="16" fill="#C4663F"/>
+    <path d="M434 306 L500 290" stroke-width="10"/>
+  </g>
+</svg>

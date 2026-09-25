@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of a slow cooker">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 270 H460 V420 Q460 460 420 460 H180 Q140 460 140 420 Z" fill="#2E2A26"/>
+    <path d="M150 270 Q300 180 450 270" fill="#FFFDF9"/>
+    <rect x="275" y="190" width="50" height="30" rx="12" fill="#2E2A26"/>
+    <path d="M140 320 H110" stroke-width="20"/><path d="M460 320 H490" stroke-width="20"/>
+    <circle cx="300" cy="380" r="30" fill="#C4663F" stroke="#F5EFE6" stroke-width="8"/>
+    <line x1="300" y1="380" x2="316" y2="364" stroke="#F5EFE6" stroke-width="8"/>
+  </g>
+</svg>

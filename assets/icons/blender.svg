@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of a countertop blender">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M210 120 H400 L375 360 H235 Z" fill="#FFFDF9"/>
+    <rect x="200" y="100" width="210" height="34" rx="12" fill="#2E2A26"/>
+    <path d="M400 170 Q450 180 440 250 L385 290"/>
+    <g stroke="#C4663F" stroke-width="10"><line x1="270" y1="330" x2="340" y2="310"/><line x1="270" y1="310" x2="340" y2="330"/></g>
+    <path d="M220 360 H390 L410 470 H200 Z" fill="#2E2A26"/>
+    <circle cx="305" cy="420" r="20" fill="#C4663F"/>
+  </g>
+</svg>

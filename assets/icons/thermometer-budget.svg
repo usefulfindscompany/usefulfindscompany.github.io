@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of a folding instant-read meat thermometer">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="rotate(30 300 300)">
+      <rect x="235" y="250" width="130" height="230" rx="36" fill="#7F8F6E"/>
+      <rect x="260" y="285" width="80" height="58" rx="10" fill="#FFFDF9"/>
+      <text x="300" y="326" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="30" font-weight="700" fill="#2E2A26" stroke="none">145&#176;</text>
+      <circle cx="300" cy="400" r="15" fill="#FFFDF9"/>
+      <line x1="300" y1="248" x2="300" y2="90" stroke-width="12"/>
+    </g>
+  </g>
+</svg>
