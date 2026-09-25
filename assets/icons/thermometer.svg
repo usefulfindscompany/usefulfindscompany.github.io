@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of an instant-read thermometer">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+
+    <g transform="rotate(-35 300 300)">
+      <rect x="230" y="110" width="140" height="210" rx="40" fill="#C4663F"/>
+      <rect x="258" y="145" width="84" height="64" rx="10" fill="#FFFDF9"/>
+      <text x="300" y="190" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="34" font-weight="700" fill="#2E2A26" stroke="none">165&#176;</text>
+      <circle cx="300" cy="262" r="16" fill="#FFFDF9"/>
+      <line x1="300" y1="322" x2="300" y2="500" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

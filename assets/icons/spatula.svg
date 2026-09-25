@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of a spatula with a built-in rest">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+
+    <g transform="rotate(-30 300 300)">
+      <path d="M250 110 H350 V250 Q300 270 250 250 Z" fill="#2E2A26"/>
+      <g stroke="#F5EFE6" stroke-width="8"><line x1="280" y1="140" x2="280" y2="230"/><line x1="320" y1="140" x2="320" y2="230"/></g>
+      <line x1="300" y1="262" x2="300" y2="500" stroke-width="24"/>
+      <path d="M300 380 Q344 392 340 430" stroke="#9A4A2A" stroke-width="16"/>
+    </g>
+    <line x1="140" y1="492" x2="460" y2="492" stroke="#5E574F" stroke-width="8"/>
+  </g>
+</svg>

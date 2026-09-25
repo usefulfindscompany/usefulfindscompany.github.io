@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of a cutting board">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+
+    <rect x="140" y="170" width="320" height="250" rx="22" fill="#D9B98A"/>
+    <circle cx="420" cy="210" r="16" fill="#F5EFE6"/>
+    <g stroke="#C4663F" stroke-width="10" fill="none"><circle cx="250" cy="300" r="40"/><circle cx="250" cy="300" r="20"/></g>
+    <g transform="rotate(20 360 330)"><path d="M300 330 H420 L400 350 H300 Z" fill="#FFFDF9"/><rect x="250" y="324" width="52" height="30" rx="10" fill="#2E2A26"/></g>
+  </g>
+</svg>

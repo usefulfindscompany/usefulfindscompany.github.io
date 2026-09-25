@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Illustration of a zester and grater">
+  <rect width="600" height="600" fill="#E8D5B0"/>
+  <circle cx="300" cy="300" r="230" fill="#F5EFE6"/>
+  <g fill="none" stroke="#2E2A26" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+
+    <g transform="rotate(-40 300 300)">
+      <rect x="262" y="90" width="76" height="270" rx="12" fill="#FFFDF9"/>
+      <g stroke="#9A4A2A" stroke-width="6">
+        <line x1="280" y1="120" x2="320" y2="120"/><line x1="280" y1="150" x2="320" y2="150"/><line x1="280" y1="180" x2="320" y2="180"/>
+        <line x1="280" y1="210" x2="320" y2="210"/><line x1="280" y1="240" x2="320" y2="240"/><line x1="280" y1="270" x2="320" y2="270"/><line x1="280" y1="300" x2="320" y2="300"/><line x1="280" y1="330" x2="320" y2="330"/>
+      </g>
+      <rect x="270" y="360" width="60" height="150" rx="26" fill="#C4663F"/>
+    </g>
+    <circle cx="170" cy="430" r="46" fill="#E9C46A" stroke="#2E2A26"/>
+    <path d="M170 384 Q188 372 200 380" stroke="#7F8F6E"/>
+  </g>
+</svg>
