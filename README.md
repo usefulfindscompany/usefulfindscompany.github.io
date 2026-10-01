@@ -10,7 +10,7 @@ Owner: Joshua Ricker · Contact: usefulfindscompany@gmail.com · Handle: @useful
 ├── index.html                                 Home: hero, disclosure, guide links, socials
 ├── kitchen-stocking-stuffers-under-25.html    Gift guide (10 Amazon Associates products)
 ├── gifts-for-home-cooks-under-50.html         Gift guide (10 Amazon Associates products)
-├── kitchen-gifts-that-feel-expensive.html     Gift guide, $50-150 (4 Amazon Associates products)
+├── kitchen-gifts-that-feel-expensive.html     Gift guide (2 Amazon Associates products)
 ├── about.html                                 How products are picked
 ├── disclosure.html                            Full affiliate disclosure + privacy note
 ├── 404.html                                   GitHub Pages "not found" page
